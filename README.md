@@ -8,12 +8,12 @@ One of services that they provide is certification. They provide certificate for
 DataCamp's Data Analyst Associate Certification is awarded to individuals who successfully complete one exam (DA101) and one practical exam (DA501P)
 
 1. DA101 is a 60-minute exam that assesses exam taker's proficiency in data management, exploratory analysis, and statistical experimentation using SQL. To successfully pass this exam, should be able to:
-  - Perform data extraction, joining and aggregation tasks
-  - Perform cleaning tasks to prepare data for analysis
-  - Assess data quality and perform validation tasks
-  - Calculate metrics to effectively report characteristics of data and relationships between features.
-  - Read, and analyze data visualizations to represent the relationships between features.
-  - Describe statistical concepts that underpin hypothesis testing and experimentation.
+   - Perform data extraction, joining and aggregation tasks
+   - Perform cleaning tasks to prepare data for analysis
+   - Assess data quality and perform validation tasks
+   - Calculate metrics to effectively report characteristics of data and relationships between features.
+   - Read, and analyze data visualizations to represent the relationships between features.
+   - Describe statistical concepts that underpin hypothesis testing and experimentation.
 
 2. Practical exam (DA501P). The practical exam assesses skills in communication and data visualization. The output is expected to review a business problem, select and create appropriate visualizations, and provide a written report of your summary.
 
